@@ -8,6 +8,6 @@
 0. edit "lines.txt" file on github.com and commit
 0. do not pull changes to local hard drive
 0. edit "lines.txt" file on local hard drive with different edits and commit
-0. try to push "lines.txt" to github.com repo, should fail
+0. try to push "lines.txt" to github.com repo, should fail (did)
 0. pull changes to local hard drive
 0. observe merge effects

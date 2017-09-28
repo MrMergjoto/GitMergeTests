@@ -13,3 +13,4 @@ simple merge with no conflicts
 0. merge changes
 0. observe changes from test-branch effected on master branch
 0. push fast forward merge commit to github
+0. **results correct**

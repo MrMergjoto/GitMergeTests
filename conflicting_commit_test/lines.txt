@@ -2,7 +2,8 @@ lines.txt
 
 line one
 line two
-line two point two
+line two point two (was local)
+line two point one (was remote)
 line three
 line four
 line five
